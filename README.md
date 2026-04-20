@@ -17,4 +17,4 @@ I started from a basic idea and focused on improving both the interface and user
 - Neutralinojs
 - HTML, CSS, JavaScript
 
-## Run locally
+[Download latest version](https://github.com/Rusiya001/Binary-to-Decimal-RealTime-Converter-app-/releases/latest)
