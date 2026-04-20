@@ -1,15 +1,20 @@
-# neutralinojs-minimal
+# Binary to Decimal Real-Time Converter
 
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/getting-started/using-frontend-libraries).
+A simple desktop app built with Neutralinojs that converts binary numbers to decimal in real time.
 
-## Contributors
+## About
 
-[![Contributors](https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal)](https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors)
+This project is part of my journey learning app development, JavaScript, and UI/UX design.
 
-## License
+I started from a basic idea and focused on improving both the interface and user experience through iteration.
 
-[MIT](LICENSE)
+## Features
+- Real-time binary to decimal conversion
+- Simple and clean UI
+- Lightweight desktop app
 
-## Icon credits
+## Tech
+- Neutralinojs
+- HTML, CSS, JavaScript
 
-- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
+## Run locally
